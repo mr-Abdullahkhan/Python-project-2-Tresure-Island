@@ -3,7 +3,7 @@
 
 This is a beginner-level Python command-line game where the player makes choices to find hidden treasure. The game is based on user input and conditional statements.
 
-=============================================================================================
+---
 
 **📌 Project Description**
 
@@ -12,7 +12,7 @@ This is a beginner-level Python command-line game where the player makes choices
 
 This project helped me practice Python basics such as user input, conditional statements, and logical decision-making.
 
-=============================================================================================
+---
 
 **🛠️ Technologies Used**
 
@@ -20,7 +20,7 @@ This project helped me practice Python basics such as user input, conditional st
 
 * Command Line / Terminal
 
-=============================================================================================
+---
 
 **▶️ How It Works**
 
@@ -32,7 +32,7 @@ This project helped me practice Python basics such as user input, conditional st
 
 4. The game ends with either finding the treasure or a game-over message
 
-=============================================================================================
+---
 
 **🧭 Example Gameplay**
 		Welcome to Treasure Island.
@@ -47,7 +47,7 @@ This project helped me practice Python basics such as user input, conditional st
 		
 		You win
 
-=============================================================================================
+---
 
 **🎯 What I Learned**
 
@@ -61,7 +61,7 @@ This project helped me practice Python basics such as user input, conditional st
 
 * Building a simple text-based game
 
-=============================================================================================
+---
 
 **🚀 Future Improvements**
 
@@ -73,13 +73,13 @@ This project helped me practice Python basics such as user input, conditional st
 
 * Using functions to improve code structure
 
-=============================================================================================
+---
 
 **🙌 Acknowledgment**
 
 This project is part of my Python learning journey and helped me understand decision-making logic in programming.
 
-=============================================================================================
+---
 
 **⭐ Feel free to fork this project or suggest improvements!**
 
