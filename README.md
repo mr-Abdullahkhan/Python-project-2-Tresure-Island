@@ -17,7 +17,6 @@ This project helped me practice Python basics such as user input, conditional st
 **🛠️ Technologies Used**
 
 * Python 3
-
 * Command Line / Terminal
 
 ---
@@ -25,11 +24,8 @@ This project helped me practice Python basics such as user input, conditional st
 **▶️ How It Works**
 
 1. The player chooses a direction (Left or Right)
-
 2. Based on the choice, the player encounters different situations
-
 3. Additional choices decide the final outcome
-
 4. The game ends with either finding the treasure or a game-over message
 
 ---
@@ -52,13 +48,9 @@ This project helped me practice Python basics such as user input, conditional st
 **🎯 What I Learned**
 
 * Using if, elif, and else statements
-
 * Handling user input in Python
-
 * Converting input to lowercase for consistency
-
 * Creating multiple game paths
-
 * Building a simple text-based game
 
 ---
@@ -66,11 +58,8 @@ This project helped me practice Python basics such as user input, conditional st
 **🚀 Future Improvements**
 
 * Adding more choices and endings
-
 * Improving game story and messages
-
 * Adding a restart option
-
 * Using functions to improve code structure
 
 ---
